@@ -121,7 +121,7 @@ I am an Electronics & Automation Engineering student passionate about:
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
 - Autonomous UGV Rover
 - AIoT Monitoring System
@@ -130,6 +130,6 @@ I am an Electronics & Automation Engineering student passionate about:
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: rothanaksreng574@gmail.com
+- Email: rothanaksreng574@gmail.com
