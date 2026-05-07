@@ -69,7 +69,7 @@ I am an Electronics & Automation Engineering student passionate about:
 
 ---
 
-## 🔥 Tech Badges
+## Tech Badges
 
 <p align="left">
 
@@ -89,7 +89,7 @@ I am an Electronics & Automation Engineering student passionate about:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NAK-Kiet&show_icons=true&theme=tokyonight" />
@@ -97,7 +97,7 @@ I am an Electronics & Automation Engineering student passionate about:
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAK-Kiet&theme=tokyonight" />
@@ -113,7 +113,7 @@ I am an Electronics & Automation Engineering student passionate about:
 
 ---
 
-## 🔥 Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAK-Kiet&layout=compact&theme=tokyonight" />
