@@ -20,7 +20,7 @@ I am an Electronics & Automation Engineering student passionate about:
 
 - UGV Robotics
 - AIoT Systems
-- ESP32 / STM32 Development
+- Microcontroller Boards Development
 - Computer Vision & AI
 - PLC Automation
 - MQTT & IoT Infrastructure
