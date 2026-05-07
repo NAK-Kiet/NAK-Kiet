@@ -18,7 +18,8 @@ AIoT • Robotics • Embedded Systems • Automation Engineering
 
 I am an Electronics & Automation Engineering student passionate about:
 
-- UGV Robotics
+- UGV
+- UAV
 - AIoT Systems
 - Microcontroller Boards Development
 - Computer Vision & AI
