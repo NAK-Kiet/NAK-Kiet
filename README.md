@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hello, I'm Rothanak 👋
 
-<!--
-**NAK-Kiet/NAK-Kiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AIoT • Robotics • Embedded Systems • Automation Engineering
 
-Here are some ideas to get you started:
+I am an Electronics & Automation Engineering, passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 UGV Robotics
+- 📡 AIoT Systems
+- 🔥 ESP32 / STM32 Development
+- 🧠 Computer Vision & AI
+- ⚙️ PLC Automation
+- 🌐 MQTT & IoT Infrastructure
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Embedded
+- ESP32
+- STM32
+- Arduino
+- Rasberry Pi
+- FPGA
+- MQTT
+- FreeRTOS
+
+### Operating Systems & Platforms
+- Linux
+- Ubuntu
+- Docker
+- Git
+- Bash
+  
+### Programming
+- C/C++
+- VHDL
+- Python
+- JavaScript
+
+### AI & Robotics
+- OpenCV
+- ROS / ROS2
+- YOLO
+- TensorFlow
+
+### Engineering tools
+- Espressif IDE
+- Arduino IDE
+- STM32CubeIDE
+- VS Code
+- GX Works2
+- KiCad
+- Proteus
+- MATLAB
+
+---
+
+## 📌 Current Projects
+
+- Autonomous UGV Rover
+- AIoT Monitoring System
+- Smart Sensor Networks
+- Defense Robotics Research
+
+---
+
+## 📫 Contact
+
+- Email: rothanaksreng574@gmail.com
