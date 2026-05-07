@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AIoT+Engineer;Embedded+Systems+Developer;UGV+%26+Robotics+Researcher;ESP32+%7C+STM32+%7C+Linux;Automation+%26+Computer+Vision" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rothanak</h1>
+<h1 align="center">Hello, I'm Rothanak (NAK-Kiet)</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YNAK-Kiet&label=Profile%20views&color=0e75b6&style=flat" alt="YNAK-Kiet" />
+  <img src="https://komarev.com/ghpvc/?username=NAK-Kiet&label=Profile%20views&color=0e75b6&style=flat" alt="YNAK-Kiet" />
 </p>
 
 <h3 align="center">
@@ -14,20 +14,20 @@ AIoT • Robotics • Embedded Systems • Automation Engineering
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an Electronics & Automation Engineering student passionate about:
 
-- 🤖 UGV Robotics
-- 📡 AIoT Systems
-- 🔥 ESP32 / STM32 Development
-- 🧠 Computer Vision & AI
-- ⚙️ PLC Automation
-- 🌐 MQTT & IoT Infrastructure
+- UGV Robotics
+- AIoT Systems
+- ESP32 / STM32 Development
+- Computer Vision & AI
+- PLC Automation
+- MQTT & IoT Infrastructure
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Embedded Systems
 - ESP32
@@ -92,7 +92,7 @@ I am an Electronics & Automation Engineering student passionate about:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YNAK-Kiet&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NAK-Kiet&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ I am an Electronics & Automation Engineering student passionate about:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YNAK-Kiet&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAK-Kiet&theme=tokyonight" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ I am an Electronics & Automation Engineering student passionate about:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YNAK-Kiet&theme=tokyonight&no-frame=true&row=1&&margin-w=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NAK-Kiet&theme=tokyonight&no-frame=true&row=1&&margin-w=20" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ I am an Electronics & Automation Engineering student passionate about:
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YNAK-Kiet&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAK-Kiet&layout=compact&theme=tokyonight" />
 </p>
 
 ---
